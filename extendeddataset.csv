@@ -1,0 +1,503 @@
+location,cuisine,budget,city,restaurants,rating
+KOLKATA,North Indian,below 500,Kolkata,Aminia,4
+KOLKATA,North Indian,above 500,Kolkata,"The Legacy Grill, The Astor Hotel",4.8
+KOLKATA,Chinese,below 500,Kolkata,Beijing Kolkata,4.1
+KOLKATA,Chinese,above 500,Kolkata,Mainland China,4.5
+KOLKATA,Bengali,below 500,Kolkata,Bhojohori Manna,4.3
+KOLKATA,Bengali,above 500,Kolkata,Oh! Calcutta,4.4
+KOLKATA,South Indian,below 500,Kolkata,Murugan Idli Shop (Salt Lake),4.1
+KOLKATA,South Indian,above 500,Kolkata,Banana Leaf,4.3
+KOLKATA,North Indian,below 500,Kolkata,Taj Bengal,4.5
+KOLKATA,North Indian,above 500,Kolkata,ITC Sonar,4.7
+KOLKATA,Chinese,below 500,Kolkata,Tung Nam,4.0
+KOLKATA,Chinese,above 500,Kolkata,Tantra,4.2
+KOLKATA,Bengali,below 500,Kolkata,Kewpies,4.3
+KOLKATA,Bengali,above 500,Kolkata,Panch Phoron,4.1
+KOLKATA,South Indian,below 500,Kolkata,Adi Dhakeshwari Bastralaya,4.5 
+KOLKATA,South Indian,above 500,Kolkata,New Kathi Roll Centre,4.3
+KOLKATA,North Indian,below 500,Kolkata,Shiraz Golden Restaurant,4.2
+KOLKATA,North Indian,above 500,Kolkata,Blue and Beyond,4.6
+KOLKATA,Chinese,below 500,Kolkata,Yauatcha,4.5
+KOLKATA,Chinese,above 500,Kolkata,China Pearl,4.3
+KOLKATA,Bengali,below 500,Kolkata,6 Ballygunge Place,4.4
+KOLKATA,Bengali,above 500,Kolkata,Baan Thai,4.1
+KOLKATA,South Indian,below 500,Kolkata,Mithai,4.0
+KOLKATA,South Indian,above 500,Kolkata,The Whistling Kettle,4.2
+KOLKATA,North Indian,below 500,Kolkata,Bakstage,4.1
+KOLKATA,North Indian,above 500,Kolkata,Six Ballygunge Place,4.3
+KOLKATA,Chinese,below 500,Kolkata,Mainland China Asia Kitchen,4.4
+KOLKATA,Chinese,above 500,Kolkata,Kwality,4.2
+KOLKATA,Bengali,below 500,Kolkata,Bhooter Raja Dilo Bor,4.0
+KOLKATA,Bengali,above 500,Kolkata,Mithai,4.5
+AHMEDABAD,North Indian,below 500,Ahmedabad,Rajwadu,4.2
+AHMEDABAD,North Indian,above 500,Ahmedabad,Agashiye (The House of MG),4.4
+AHMEDABAD,Chinese,below 500,Ahmedabad,China Hut,3.8
+AHMEDABAD,Chinese,above 500,Ahmedabad,Nanjing Restaurant,4.2
+AHMEDABAD,Gujarati,below 500,Ahmedabad,Gordhan Thal (Multiple Locations),4.2
+AHMEDABAD,Gujarati,above 500,Ahmedabad,Toran Dining Hall,4.3
+AHMEDABAD,North Indian,below 500,Ahmedabad,Madras Cafe,4
+AHMEDABAD,South Indian,above 500,Ahmedabad,South High - The Kitchen of South India,4.2
+AHMEDABAD,North Indian,below 500,Ahmedabad,TGB - The Grand Bhagwati,4.1
+AHMEDABAD,North Indian,above 500,Ahmedabad,Tinello - Hyatt Regency,4.3
+AHMEDABAD,Chinese,below 500,Ahmedabad,Kabhi B,4.5
+AHMEDABAD,Chinese,above 500,Ahmedabad,Saffron - Fairfield by Marriott,4.7
+AHMEDABAD,Gujarati,below 500,Ahmedabad,Kandoi Bhogilal Mulchand,4.0
+AHMEDABAD,Gujarati,above 500,Ahmedabad,Atithi Dining Hall,4.2
+AHMEDABAD,North Indian,below 500,Ahmedabad,Agashiye,4.3
+AHMEDABAD,South Indian,above 500,Ahmedabad,The Eatery - Four Points by Sheraton,4.5
+AHMEDABAD,North Indian,below 500,Ahmedabad,Tinello - Hyatt Regency,4.1
+AHMEDABAD,North Indian,above 500,Ahmedabad,The Great Kabab Factory,4.4
+AHMEDABAD,Chinese,below 500,Ahmedabad,Pizzadilla,4.2
+AHMEDABAD,Chinese,above 500,Ahmedabad,The Green House - The House of MG,4.3
+BANGALORE,North Indian,below 500,Bangalore,Biriyani Junction,4.3
+BANGALORE,North Indian,above 500,Bangalore,Barbeque Nation,4.5
+BANGALORE,Chinese,below 500,Bangalore,The Noodle House,4.1
+BANGALORE,Chinese,above 500,Bangalore,Hunan,4.3
+BANGALORE,South Indian,below 500,Bangalore,Maiyas,4.2
+BANGALORE,South Indian,above 500,Bangalore,Roti Ghar,4.4
+BANGALORE,North Indian,below 500,Bangalore,Taaza Thindi,4.5
+BANGALORE,North Indian,above 500,Bangalore,The Raj Pavilion - ITC Windsor,4.6
+BANGALORE,Chinese,below 500,Bangalore,The Lantern,4.4
+BANGALORE,Chinese,above 500,Bangalore,Punjab Grill,4.2
+BANGALORE,South Indian,below 500,Bangalore,Brahmins' Coffee Bar,4.3
+BANGALORE,South Indian,above 500,Bangalore,Vidyarthi Bhavan,4.1
+BANGALORE,North Indian,below 500,Bangalore,Karnataka Bhel House,4.2
+BANGALORE,North Indian,above 500,Bangalore,Meghana Foods,4.4
+BANGALORE,Chinese,below 500,Bangalore,Mainland China,4.5
+BANGALORE,Chinese,above 500,Bangalore,Banana Leaf,4.3
+BANGALORE,South Indian,below 500,Bangalore,MTR - Mavalli Tiffin Rooms,4.5
+BANGALORE,South Indian,above 500,Bangalore,Brahmin's Cafe,4.3
+BANGALORE,North Indian,below 500,Bangalore,Empire Restaurant,4.2
+BANGALORE,North Indian,above 500,Bangalore,Rajdhani Thali Restaurant,4.4
+BANGALORE,Chinese,below 500,Bangalore,Bombay Chinese,4.3
+BANGALORE,Chinese,above 500,Bangalore,The Lantern,4.2
+BANGALORE,South Indian,below 500,Bangalore,Cafe Mysore,4.0
+BANGALORE,South Indian,above 500,Bangalore,Sree Sagar,4.5
+BANGALORE,North Indian,below 500,Bangalore,Crystal Bowl,4.1
+BANGALORE,North Indian,above 500,Bangalore,Dakshin,4.3
+BANGALORE,Chinese,below 500,Bangalore,Crystal Jade,4.4
+BANGALORE,Chinese,above 500,Bangalore,Peter's Pan,4.2
+BANGALORE,South Indian,below 500,Bangalore,Gokul Veg,4.0
+BANGALORE,South Indian,above 500,Bangalore,Kamat Bugle Rock,4.5
+MUMBAI,North Indian,below 500,Mumbai,Cream Centre,4.3
+MUMBAI,North Indian,above 500,Mumbai,Bukhara - ITC Maratha,4.5
+MUMBAI,Chinese,below 500,Mumbai,Mainland China,4.1
+MUMBAI,Chinese,above 500,Mumbai,Golden Dragon - Taj Mahal Palace,4.3
+MUMBAI,Bengali,below 500,Mumbai,Oh! Calcutta,4.2
+MUMBAI,Bengali,above 500,Mumbai,Bombay Brasserie,4.4
+MUMBAI,South Indian,below 500,Mumbai,Mavalli Tiffin Room (MTR),4.1
+MUMBAI,South Indian,above 500,Mumbai,Ram Ashraya,4.3
+MUMBAI,North Indian,below 500,Mumbai,Indigo Delicatessen,4.5
+MUMBAI,North Indian,above 500,Mumbai,Peshawri - ITC Maratha,4.7
+MUMBAI,Chinese,below 500,Mumbai,Soy Street,4.0
+MUMBAI,Chinese,above 500,Mumbai,China House - Grand Hyatt,4.2
+MUMBAI,Bengali,below 500,Mumbai,Trishna,4.3
+MUMBAI,Bengali,above 500,Mumbai,Shree Thaker Bhojanalay,4.1
+MUMBAI,South Indian,below 500,Mumbai,Krishna Palace Hotel,4.5
+MUMBAI,South Indian,above 500,Mumbai,A Ramanayak Udipi Shri Krishna Boarding,4.3
+MUMBAI,North Indian,below 500,Mumbai,Soul Fry Casa,4.2
+MUMBAI,North Indian,above 500,Mumbai,The Table,4.6
+MUMBAI,Chinese,below 500,Mumbai,The Oriental Blossom,4.5
+MUMBAI,Chinese,above 500,Mumbai,Golden Dragon,4.3
+MUMBAI,Bengali,below 500,Mumbai,Bhojohori Manna,4.4
+MUMBAI,Bengali,above 500,Mumbai,Oh! Calcutta,4.1
+MUMBAI,South Indian,below 500,Mumbai,Mavalli Tiffin Room (MTR),4.0
+MUMBAI,South Indian,above 500,Mumbai,Hotel Ramashray,4.2
+DELHI,North Indian,below 500,Delhi,Saravana Bhavan,4.3
+DELHI,North Indian,above 500,Delhi,Bukhara - ITC Maurya,4.5
+DELHI,Chinese,below 500,Delhi,Berco's,4.1
+DELHI,Chinese,above 500,Delhi,China Garden - Hyatt Regency,4.3
+DELHI,Bengali,below 500,Delhi,Oh! Calcutta,4.2
+DELHI,Bengali,above 500,Delhi,29 - The Grill,4.4
+DELHI,South Indian,below 500,Delhi,Sagar Ratna,4.1
+DELHI,South Indian,above 500,Delhi,Saravana Bhavan,4.3
+DELHI,North Indian,below 500,Delhi,Bukhara - ITC Maurya,4.5
+DELHI,North Indian,above 500,Delhi,Indian Accent,4.7
+DELHI,Chinese,below 500,Delhi,Berco's,4.0
+DELHI,Chinese,above 500,Delhi,China Garden - Hyatt Regency,4.2
+DELHI,Bengali,below 500,Delhi,Kewpies,4.3
+DELHI,Bengali,above 500,Delhi,Baati Chokha,4.1
+DELHI,South Indian,below 500,Delhi,Naivedyam,4.5
+DELHI,South Indian,above 500,Delhi,Bangla Sahib Road,4.3
+DELHI,North Indian,below 500,Delhi,Princess Garden,4.2
+DELHI,North Indian,above 500,Delhi,Parikrama - The Revolving Restaurant,4.6
+DELHI,Chinese,below 500,Delhi,The China Kitchen - Hyatt Regency,4.5
+DELHI,Chinese,above 500,Delhi,Shang Palace - Shangri-La's Eros Hotel,4.3
+DELHI,Bengali,below 500,Delhi,Bijoli Grill,4.0
+DELHI,Bengali,above 500,Delhi,Bengali Market,4.2
+DELHI,South Indian,below 500,Delhi,Nirula's,4.3
+DELHI,South Indian,above 500,Delhi,Angan - The Metropolitan Hotel & Spa,4.1
+DELHI,North Indian,below 500,Delhi,Parikrama - The Revolving Restaurant,4.5
+DELHI,North Indian,above 500,Delhi,K3 - JW Marriott,4.3
+DELHI,Chinese,below 500,Delhi,Pind Balluchi,4.0
+DELHI,Chinese,above 500,Delhi,Asia 7 - Sheraton New Delhi,4.2
+DELHI,Bengali,below 500,Delhi,Aaheli,4.3
+DELHI,Bengali,above 500,Delhi,Panch Phoron,4.1
+DELHI,South Indian,below 500,Delhi,Saravana Bhavan,4.5
+DELHI,South Indian,above 500,Delhi,Naivedyam,4.3
+DELHI,North Indian,below 500,Delhi,Indian Accent,4.2
+DELHI,North Indian,above 500,Delhi,The Great Kabab Factory - Radisson Blu Plaza Delhi Airport,4.6
+DELHI,Chinese,below 500,Delhi,The Monk - Bikaner House,4.5
+DELHI,Chinese,above 500,Delhi,China Inc.,4.3
+DELHI,Bengali,below 500,Delhi,Kasturi Multi Cuisine Restaurant,4.0
+DELHI,Bengali,above 500,Delhi,Kewpies,4.2
+DELHI,South Indian,below 500,Delhi,Saravana Bhavan,4.3
+DELHI,South Indian,above 500,Delhi,Karim's,4.1
+DELHI,North Indian,below 500,Delhi,Indian Accent,4.5
+DELHI,North Indian,above 500,Delhi,Bukhara - ITC Maurya,4.3
+DELHI,Chinese,below 500,Delhi,Bamboo Shoots,4.0
+DELHI,Chinese,above 500,Delhi,Woks,4.2
+DELHI,Bengali,below 500,Delhi,Oh! Calcutta,4.3
+DELHI,Bengali,above 500,Delhi,Kewpies,4.1
+DELHI,South Indian,below 500,Delhi,Saravana Bhavan,4.5
+DELHI,South Indian,above 500,Delhi,Sagar Ratna,4.3
+DELHI,North Indian,below 500,Delhi,Parikrama - The Revolving Restaurant,4.2
+DELHI,North Indian,above 500,Delhi,Peshawri - ITC Maurya,4.6
+DELHI,Chinese,below 500,Delhi,Bamboo Shoots,4.5
+DELHI,Chinese,above 500,Delhi,China Garden - Hyatt Regency,4.3
+DELHI,Bengali,below 500,Delhi,Bhojohori Manna,4.0
+DELHI,Bengali,above 500,Delhi,Six Season,4.2
+DELHI,South Indian,below 500,Delhi,Sagar Ratna,4.3
+DELHI,South Indian,above 500,Delhi,Saravana Bhavan,4.1
+HYDERABAD,South Indian,below 500,Hyderabad,Chutneys,4.4
+HYDERABAD,South Indian,above 500,Hyderabad,Ulavacharu,4.2
+HYDERABAD,North Indian,below 500,Hyderabad,Paradise,4.1
+HYDERABAD,North Indian,above 500,Hyderabad,The Square - Novotel Hyderabad Convention Centre,4.3
+HYDERABAD,Chinese,below 500,Hyderabad,Mainland China,4.4
+HYDERABAD,Chinese,above 500,Hyderabad,Golden Dragon - Taj Krishna,4.2
+HYDERABAD,Bengali,below 500,Hyderabad,Bhojohori Manna,4.1
+HYDERABAD,Bengali,above 500,Hyderabad,6 Ballygunge Place,4.3
+HYDERABAD,South Indian,below 500,Hyderabad,Minerva Coffee Shop,4.5
+HYDERABAD,South Indian,above 500,Hyderabad,Bhojanam,4.2
+HYDERABAD,North Indian,below 500,Hyderabad,Barbeque Nation,4.3
+HYDERABAD,North Indian,above 500,Hyderabad,Kangan - The Westin Hyderabad Mindspace,4.1
+HYDERABAD,Chinese,below 500,Hyderabad,Chinese Pavilion,4.2
+HYDERABAD,Chinese,above 500,Hyderabad,Wan Hao - Marriot Hyderabad,4.0
+HYDERABAD,Bengali,below 500,Hyderabad,Ohri's Nautanki Gali,4.5
+HYDERABAD,Bengali,above 500,Hyderabad,Banana Leaf,4.3
+HYDERABAD,South Indian,below 500,Hyderabad,Shree Santosh Family Dhaba,4.2
+HYDERABAD,South Indian,above 500,Hyderabad,Southern Spice,4.0
+HYDERABAD,North Indian,below 500,Hyderabad,Ohri's Tansen,4.3
+HYDERABAD,North Indian,above 500,Hyderabad,Sahib's Barbeque by Ohri's,4.5
+HYDERABAD,Chinese,below 500,Hyderabad,Noodle Bar,4.4
+HYDERABAD,Chinese,above 500,Hyderabad,Celestial Court - Sheraton Hyderabad Hotel,4.2
+HYDERABAD,Bengali,below 500,Hyderabad,Ohri's Chowpatty,4.1
+HYDERABAD,Bengali,above 500,Hyderabad,Mainland China,4.3
+HYDERABAD,South Indian,below 500,Hyderabad,Udipi Home,4.5
+HYDERABAD,South Indian,above 500,Hyderabad,The Square - Novotel Hyderabad Convention Centre,4.3
+HYDERABAD,North Indian,below 500,Hyderabad,City Spice,4.2
+HYDERABAD,North Indian,above 500,Hyderabad,Spice Junxion - The Golkonda Hotel,4.0
+HYDERABAD,Chinese,below 500,Hyderabad,Ming Garden,4.3
+HYDERABAD,Chinese,above 500,Hyderabad,Bamboo,4.2
+HYDERABAD,Bengali,below 500,Hyderabad,Ohri's De Thali,4.0
+HYDERABAD,Bengali,above 500,Hyderabad,Six Ballygunge Place,4.2
+HYDERABAD,South Indian,below 500,Hyderabad,Sri Kanya,4.3
+HYDERABAD,South Indian,above 500,Hyderabad,Chutneys,4.1
+AMRITSAR,North Indian,below 500,Amritsar,Bharawan Da Dhaba,4.4
+AMRITSAR,North Indian,above 500,Amritsar,The Yellow Chilli,4.2
+AMRITSAR,Chinese,below 500,Amritsar,Packers and Movers,4.3
+AMRITSAR,Chinese,above 500,Amritsar,Wat a Burger!,4.1
+AMRITSAR,Bengali,below 500,Amritsar,Beera Chicken House,4.0
+AMRITSAR,Bengali,above 500,Amritsar,Bansal Sweets,4.2
+AMRITSAR,South Indian,below 500,Amritsar,Mainland China,4.3
+AMRITSAR,South Indian,above 500,Amritsar,Pindi Food Street,4.1
+AMRITSAR,North Indian,below 500,Amritsar,Sharma Dhaba,4.5
+AMRITSAR,North Indian,above 500,Amritsar,Capital Grill,4.3
+CHENNAI,North Indian,below 500,Chennai,Saravana Bhavan,4.3
+CHENNAI,North Indian,above 500,Chennai,Dakshin - Crowne Plaza Chennai Adyar Park,4.5
+CHENNAI,Chinese,below 500,Chennai,Mainland China,4.1
+CHENNAI,Chinese,above 500,Chennai,The Flying Elephant - Park Hyatt Chennai,4.3
+CHENNAI,South Indian,below 500,Chennai,Murugan Idli Shop,4.2
+CHENNAI,South Indian,above 500,Chennai,Raintree - The Accord,4.4
+CHENNAI,North Indian,below 500,Chennai,Anjappar Chettinad Restaurant,4.5
+CHENNAI,North Indian,above 500,Chennai,Kipling Café - E Hotel,4.6
+CHENNAI,Chinese,below 500,Chennai,The Cantonment,4.4
+CHENNAI,Chinese,above 500,Chennai,Bay View - Vivanta Chennai,4.2
+CHENNAI,South Indian,below 500,Chennai,Adyar Ananda Bhavan,4.3
+CHENNAI,South Indian,above 500,Chennai,Salt.Co.531 - The Westin Chennai Velachery,4.1
+CHENNAI,North Indian,below 500,Chennai,Ponnusamy Hotel,4.2
+CHENNAI,North Indian,above 500,Chennai,Ambassador Pallava - Chennai,4.4
+CHENNAI,Chinese,below 500,Chennai,The Residency,4.5
+CHENNAI,Chinese,above 500,Chennai,J-Hind - Taj Coromandel,4.3
+CHENNAI,South Indian,below 500,Chennai,Hotel Junior Kuppanna,4.5
+CHENNAI,South Indian,above 500,Chennai,Kalyana Raman's Mess,4.3
+CHENNAI,North Indian,below 500,Chennai,Cascade - Radisson Blu Hotel Chennai,4.2
+CHENNAI,North Indian,above 500,Chennai,Basil with a Twist - The Iris Hotel,4.6
+CHENNAI,Chinese,below 500,Chennai,The Great Kabab Factory - Radisson Blu Hotel GRT Chennai,4.5
+CHENNAI,Chinese,above 500,Chennai,Golden Dragon - Taj Coromandel,4.3
+CHENNAI,South Indian,below 500,Chennai,Sangeetha Veg Restaurant,4.0
+CHENNAI,South Indian,above 500,Chennai,Café Mercara Express - ITC Grand Chola,4.5
+CHENNAI,North Indian,below 500,Chennai,Malgudi - Savera Hotel,4.1
+CHENNAI,North Indian,above 500,Chennai,Seagull - Taj Fisherman's Cove Resort & Spa,4.3
+CHENNAI,Chinese,below 500,Chennai,Peking - The Residency Towers,4.4
+CHENNAI,Chinese,above 500,Chennai,Chap Chay - The Raintree,4.2
+CHENNAI,South Indian,below 500,Chennai,Sri Krishna Sweets,4.0
+CHENNAI,South Indian,above 500,Chennai,Malgudi - Courtyard By Marriott,4.5
+JAIPUR,North Indian,below 500,Jaipur,Spice Court,4.3
+JAIPUR,North Indian,above 500,Jaipur,Suvarna Mahal - Rambagh Palace,4.5
+JAIPUR,Chinese,below 500,Jaipur,Dragon House - Country Inn & Suites by Radisson,4.1
+JAIPUR,Chinese,above 500,Jaipur,The Grand Thakar,4.3
+JAIPUR,Rajasthani,below 500,Jaipur,Chokhi Dhani,4.2
+JAIPUR,Rajasthani,above 500,Jaipur,1135 AD - Amer Fort,4.4
+JAIPUR,North Indian,below 500,Jaipur,Handi Restaurant,4.5
+JAIPUR,North Indian,above 500,Jaipur,Saffron - Jaipur Marriott Hotel,4.7
+JAIPUR,Chinese,below 500,Jaipur,Blackout - The Fern An Ecotel Hotel,4.0
+JAIPUR,Chinese,above 500,Jaipur,The Pavilion - The Raj Palace,4.2
+JAIPUR,Rajasthani,below 500,Jaipur,Shree Thal Restaurant,4.3
+JAIPUR,Rajasthani,above 500,Jaipur,Sunder Palace Restaurant,4.1
+JAIPUR,North Indian,below 500,Jaipur,Tarun,4.5
+JAIPUR,North Indian,above 500,Jaipur,Spice Court,4.3
+JAIPUR,Chinese,below 500,Jaipur,The Great Kabab Factory - Radisson Jaipur City Center,4.4
+JAIPUR,Chinese,above 500,Jaipur,The Eatery - Four Points by Sheraton,4.2
+JAIPUR,Rajasthani,below 500,Jaipur,Maharani Express,4.0
+JAIPUR,Rajasthani,above 500,Jaipur,1135 AD - Amer Fort,4.2
+JAIPUR,North Indian,below 500,Jaipur,Poppin Cafe,4.3
+JAIPUR,North Indian,above 500,Jaipur,Saffron - Jaipur Marriott Hotel,4.1
+JAIPUR,Chinese,below 500,Jaipur,Moti Mahal Delux,4.2
+JAIPUR,Chinese,above 500,Jaipur,Peshawari - ITC Rajputana,4.4
+JAIPUR,Rajasthani,below 500,Jaipur,Shri Thaal Village,4.3
+JAIPUR,Rajasthani,above 500,Jaipur,Sunder Palace Restaurant,4.1
+JAIPUR,North Indian,below 500,Jaipur,Pind Balluchi,4.5
+JAIPUR,North Indian,above 500,Jaipur,Suvarna Mahal - Rambagh Palace,4.3
+JAIPUR,Chinese,below 500,Jaipur,Blackout - The Fern An Ecotel Hotel,4.0
+JAIPUR,Chinese,above 500,Jaipur,The Pavilion - The Raj Palace,4.2
+JAIPUR,Rajasthani,below 500,Jaipur,Thali House,4.3
+JAIPUR,Rajasthani,above 500,Jaipur,1135 AD - Amer Fort,4.1
+JAIPUR,North Indian,below 500,Jaipur,Pehli Manzil,4.5
+JAIPUR,North Indian,above 500,Jaipur,Saffron - Jaipur Marriott Hotel,4.3
+JAIPUR,Chinese,below 500,Jaipur,The Great Kabab Factory - Radisson Jaipur City Center,4.2
+JAIPUR,Chinese,above 500,Jaipur,The Eatery - Four Points by Sheraton,4.4
+JAIPUR,Rajasthani,below 500,Jaipur,Suvarna Mahal,4.3
+JAIPUR,Rajasthani,above 500,Jaipur,Sunder Palace Restaurant,4.1
+JAIPUR,North Indian,below 500,Jaipur,Poppin Cafe,4.5
+JAIPUR,North Indian,above 500,Jaipur,1135 AD - Amer Fort,4.3
+JAIPUR,Chinese,below 500,Jaipur,Moti Mahal Delux,4.0
+JAIPUR,Chinese,above 500,Jaipur,Peshawari - ITC Rajputana,4.2
+JAIPUR,Rajasthani,below 500,Jaipur,Thali House,4.3
+JAIPUR,Rajasthani,above 500,Jaipur,Suvarna Mahal,4.1
+GOA,Seafood,below 500,Goa,Britto's,4.4
+GOA,Seafood,above 500,Goa,Bomra's,4.2
+GOA,Indian,below 500,Goa,Kamlabai,4.3
+GOA,Indian,above 500,Goa,Saraya Art Cafe,4.1
+GOA,Continental,below 500,Goa,Cafe Basil,4.2
+GOA,Continental,above 500,Goa,The Fisherman's Wharf,4.4
+GOA,Seafood,below 500,Goa,The Goan Room - Resort Rio,4.5
+GOA,Seafood,above 500,Goa,Waterfront Terrace & Bar - The Marriott Resort,4.3
+GOA,Indian,below 500,Goa,Anandashram,4.5
+GOA,Indian,above 500,Goa,Kokni Kanteen,4.3
+GOA,Continental,below 500,Goa,Mickey's Restaurant & Bar,4.0
+GOA,Continental,above 500,Goa,Cherry Tomato,4.2
+GOA,Seafood,below 500,Goa,The Verandah Restaurant - Panaji Residency,4.3
+GOA,Seafood,above 500,Goa,Palácio Do Deâo,4.1
+GOA,Indian,below 500,Goa,Fisherman's Wharf,4.5
+GOA,Indian,above 500,Goa,Gunpowder,4.3
+GOA,Continental,below 500,Goa,Sakana - The Lalit Golf & Spa Resort,4.2
+GOA,Continental,above 500,Goa,Susegado,4.4
+GOA,Seafood,below 500,Goa,Fishka,4.3
+GOA,Seafood,above 500,Goa,Shivers Garden Restaurant,4.1
+GOA,Indian,below 500,Goa,Cafe Tato,4.5
+GOA,Indian,above 500,Goa,Viva Panjim,4.3
+GOA,Continental,below 500,Goa,Caravela Beach Resort,4.0
+GOA,Continental,above 500,Goa,Mambo's,4.2
+GOA,Seafood,below 500,Goa,Kokni Kanteen,4.3
+GOA,Seafood,above 500,Goa,Anandashram,4.1
+GOA,Indian,below 500,Goa,Go With the Flow,4.5
+GOA,Indian,above 500,Goa,Republic of Noodles - Lemon Tree Amarante Beach Resort,4.3
+GOA,Continental,below 500,Goa,Infantaria Cafe,4.2
+GOA,Continental,above 500,Goa,The Fisherman's Wharf,4.4
+GOA,Seafood,below 500,Goa,Waterfront Terrace & Bar - The Marriott Resort,4.3
+GOA,Seafood,above 500,Goa,Palácio Do Deâo,4.1
+LUCKNOW,North Indian,below 500,Lucknow,Tunday Kababi,4.3
+LUCKNOW,North Indian,above 500,Lucknow,Oudhyana - Taj Gomti Nagar,4.5
+LUCKNOW,Chinese,below 500,Lucknow,The Urban Terrace - Hotel Lineage,4.1
+LUCKNOW,Chinese,above 500,Lucknow,Falaknuma - The Piccadily Hotel,4.3
+LUCKNOW,Mughlai,below 500,Lucknow,Dastarkhwan,4.2
+LUCKNOW,Mughlai,above 500,Lucknow,Renaissance Lucknow Hotel,4.4
+LUCKNOW,North Indian,below 500,Lucknow,Naushijaan,4.5
+LUCKNOW,North Indian,above 500,Lucknow,Safran - Renaissance Lucknow Hotel,4.7
+LUCKNOW,Chinese,below 500,Lucknow,Kabab Kebab Corner,4.4
+LUCKNOW,Chinese,above 500,Lucknow,L-14,4.2
+LUCKNOW,Mughlai,below 500,Lucknow,Lucknowi Zaika,4.3
+LUCKNOW,Mughlai,above 500,Lucknow,The Square - Novotel Lucknow Gomti Nagar,4.1
+LUCKNOW,North Indian,below 500,Lucknow,Shree Lassi Corner,4.2
+LUCKNOW,North Indian,above 500,Lucknow,Falaknuma - The Piccadily Hotel,4.4
+LUCKNOW,Chinese,below 500,Lucknow,The Urban Terrace - Hotel Lineage,4.5
+LUCKNOW,Chinese,above 500,Lucknow,Kwality,4.3
+LUCKNOW,Mughlai,below 500,Lucknow,Dastarkhwan,4.0
+LUCKNOW,Mughlai,above 500,Lucknow,Sahib Cafe - Hotel Levana,4.2
+LUCKNOW,North Indian,below 500,Lucknow,Tunday Kababi,4.3
+LUCKNOW,North Indian,above 500,Lucknow,The Latitude - Vivanta by Taj,4.5
+LUCKNOW,Chinese,below 500,Lucknow,Purple Lounge - Royal Inn,4.1
+LUCKNOW,Chinese,above 500,Lucknow,Cyber Hub,4.3
+LUCKNOW,Mughlai,below 500,Lucknow,Zayka,4.2
+LUCKNOW,Mughlai,above 500,Lucknow,Terrace Barbeque - Hotel Levana,4.4
+LUCKNOW,North Indian,below 500,Lucknow,Kukkad Ka Dhaba,4.5
+LUCKNOW,North Indian,above 500,Lucknow,Raahi,4.3
+LUCKNOW,Chinese,below 500,Lucknow,Sharma Ji Ki Mashoor Thandai,4.2
+LUCKNOW,Chinese,above 500,Lucknow,Chung Fa Chinese Restaurant,4.4
+LUCKNOW,Mughlai,below 500,Lucknow,Sharma Ji Ki Mashoor Thandai,4.5
+LUCKNOW,Mughlai,above 500,Lucknow,Mirch Masala,4.3
+LUCKNOW,North Indian,below 500,Lucknow,Tunday Kababi,4.2
+LUCKNOW,North Indian,above 500,Lucknow,Sagar Ratna,4.0
+LUCKNOW,Chinese,below 500,Lucknow,The Urban Terrace - Hotel Lineage,4.3
+LUCKNOW,Chinese,above 500,Lucknow,Cyber Hub,4.2
+LUCKNOW,Mughlai,below 500,Lucknow,Dastarkhwan,4.1
+LUCKNOW,Mughlai,above 500,Lucknow,Raahi,4.3
+SURAT,Gujarati,below 500,Surat,Kansar Gujarati Thali,4.4
+SURAT,Gujarati,above 500,Surat,The Bungalow - The Umrao,4.2
+SURAT,North Indian,below 500,Surat,Trupti Restaurant,4.3
+SURAT,North Indian,above 500,Surat,The Eatery - Four Points by Sheraton,4.1
+SURAT,Chinese,below 500,Surat,Sanjha Chulha,4.2
+SURAT,Chinese,above 500,Surat,Subway - Lords Plaza,4.0
+SURAT,Gujarati,below 500,Surat,Sarvottam,4.3
+SURAT,Gujarati,above 500,Surat,Banquet Hall - Vetro Surat,4.1
+SURAT,North Indian,below 500,Surat,Dosa Plaza,4.2
+SURAT,North Indian,above 500,Surat,Fozzie's Pizzaiolo - Lords Plaza,4.4
+SURAT,Chinese,below 500,Surat,Golden Spice Restaurant,4.3
+SURAT,Chinese,above 500,Surat,Subway - Lords Plaza,4.1
+SURAT,Gujarati,below 500,Surat,Grand Thakar,4.2
+SURAT,Gujarati,above 500,Surat,Shreeji Vatika - Vetro Surat,4.4
+SURAT,North Indian,below 500,Surat,Galaxy Restaurant,4.3
+SURAT,North Indian,above 500,Surat,The Eatery - Four Points by Sheraton,4.1
+SURAT,Chinese,below 500,Surat,The Grand Thakar,4.2
+SURAT,Chinese,above 500,Surat,Coffee King - Lords Plaza,4.0
+SURAT,Gujarati,below 500,Surat,Aditi Fast Food,4.3
+SURAT,Gujarati,above 500,Surat,Restaurant - The Gateway Hotel Athwalines Surat,4.1
+SURAT,North Indian,below 500,Surat,Gajanan Vadapav,4.2
+SURAT,North Indian,above 500,Surat,Fozzie's Pizzaiolo - Lords Plaza,4.4
+SURAT,Chinese,below 500,Surat,Cake Walk - Lords Plaza,4.3
+SURAT,Chinese,above 500,Surat,The Bungalow - The Umrao,4.1
+SURAT,Gujarati,below 500,Surat,Royal Dine,4.2
+SURAT,Gujarati,above 500,Surat,Central Coffee Bar - Hotel Central Excellency,4.4
+SURAT,North Indian,below 500,Surat,Khandani Pakwan,4.3
+SURAT,North Indian,above 500,Surat,Fozzie's Pizzaiolo - Lords Plaza,4.1
+SURAT,Chinese,below 500,Surat,Coffee King - Lords Plaza,4.2
+SURAT,Chinese,above 500,Surat,The Bungalow - The Umrao,4.4
+SURAT,Gujarati,below 500,Surat,Aditi Fast Food,4.3
+SURAT,Gujarati,above 500,Surat,Restaurant - The Gateway Hotel Athwalines Surat,4.1
+SURAT,North Indian,below 500,Surat,Gajanan Vadapav,4.2
+SURAT,North Indian,above 500,Surat,Fozzie's Pizzaiolo - Lords Plaza,4.4
+SURAT,Chinese,below 500,Surat,Cake Walk - Lords Plaza,4.3
+SURAT,Chinese,above 500,Surat,The Bungalow - The Umrao,4.1
+SURAT,Gujarati,below 500,Surat,Royal Dine,4.2
+SURAT,Gujarati,above 500,Surat,Central Coffee Bar - Hotel Central Excellency,4.4
+SURAT,North Indian,below 500,Surat,Khandani Pakwan,4.3
+SURAT,North Indian,above 500,Surat,Fozzie's Pizzaiolo - Lords Plaza,4.1
+SURAT,Chinese,below 500,Surat,Coffee King - Lords Plaza,4.2
+SURAT,Chinese,above 500,Surat,The Bungalow - The Umrao,4.4
+SURAT,Gujarati,below 500,Surat,Aditi Fast Food,4.3
+SURAT,Gujarati,above 500,Surat,Restaurant - The Gateway Hotel Athwalines Surat,4.1
+SURAT,North Indian,below 500,Surat,Gajanan Vadapav,4.2
+SURAT,North Indian,above 500,Surat,Fozzie's Pizzaiolo - Lords Plaza,4.4
+SURAT,Chinese,below 500,Surat,Cake Walk - Lords Plaza,4.3
+SURAT,Chinese,above 500,Surat,The Bungalow - The Umrao,4.1
+NAGPUR,North Indian,below 500,Nagpur,Nagpur Bhojanalay,4.2
+NAGPUR,North Indian,above 500,Nagpur,Rasika,4.4
+NAGPUR,Chinese,below 500,Nagpur,China Town,3.8
+NAGPUR,Chinese,above 500,Nagpur,Golden Dragon,4.2
+NAGPUR,South Indian,below 500,Nagpur,Sree Venkateshwara,4.2
+NAGPUR,South Indian,above 500,Nagpur,Idli Factory,4.3
+NAGPUR,North Indian,below 500,Nagpur,Surabhi,4
+NAGPUR,South Indian,above 500,Nagpur,Hotel Haldiram,4.2
+NAGPUR,North Indian,below 500,Nagpur,Kareem's,4.1
+NAGPUR,North Indian,above 500,Nagpur,Moti Mahal Delux,4.3
+NAGPUR,Chinese,below 500,Nagpur,Beijing Bites,4.5
+NAGPUR,Chinese,above 500,Nagpur,Shivsagar,4.7
+NAGPUR,South Indian,below 500,Nagpur,Kamat's,4.0
+NAGPUR,South Indian,above 500,Nagpur,Upahar Veg,4.2
+NAGPUR,North Indian,below 500,Nagpur,Hotel Shree,4.3
+NAGPUR,South Indian,above 500,Nagpur,Kamat Hotel,4.5
+NAGPUR,Chinese,below 500,Nagpur,Baker's Stop,4.1
+NAGPUR,Chinese,above 500,Nagpur,China Pearl,4.3
+NAGPUR,South Indian,below 500,Nagpur,Orange Restaurant,4.4
+NAGPUR,South Indian,above 500,Nagpur,Sarangi,4.3
+NAGPUR,North Indian,below 500,Nagpur,Surat Food,4.2
+NAGPUR,North Indian,above 500,Nagpur,Milan Restaurant,4.4
+NAGPUR,Chinese,below 500,Nagpur,Farid's,4.1
+NAGPUR,Chinese,above 500,Nagpur,The Taste Of China,4.3
+NAGPUR,South Indian,below 500,Nagpur,Sai Prasad,4.0
+NAGPUR,South Indian,above 500,Nagpur,Bhoj,4.5
+NAGPUR,North Indian,below 500,Nagpur,Sagar Hotel,4.1
+NAGPUR,North Indian,above 500,Nagpur,Surya Hotel,4.3
+NAGPUR,Chinese,below 500,Nagpur,Preetam's,4.4
+NAGPUR,Chinese,above 500,Nagpur,China Bowl,4.2
+INDORE,North Indian,below 500,Indore,Apna Sweets,4.3
+INDORE,North Indian,above 500,Indore,Chotiwala,4.5
+INDORE,Chinese,below 500,Indore,China Town,4.1
+INDORE,Chinese,above 500,Indore,Mainland China,4.3
+INDORE,South Indian,below 500,Indore,Hotel Rajhans,4.2
+INDORE,South Indian,above 500,Indore,Shree Ganesh,4.4
+INDORE,North Indian,below 500,Indore,Motimahal,4.1
+INDORE,South Indian,above 500,Indore,Nafees Restaurant,4.3
+INDORE,North Indian,below 500,Indore,Sarafa,4.5
+INDORE,North Indian,above 500,Indore,Nakhrali Dhani,4.7
+INDORE,Chinese,below 500,Indore,The China Village,4.0
+INDORE,Chinese,above 500,Indore,Golden Leaf,4.2
+INDORE,South Indian,below 500,Indore,Surya Hotel,4.3
+INDORE,South Indian,above 500,Indore,Madhuram Sweets,4.1
+INDORE,North Indian,below 500,Indore,Sagar Gaire Fast Food,4.5
+INDORE,South Indian,above 500,Indore,Motimahal,4.3
+INDORE,Chinese,below 500,Indore,Firangi Bake,4.2
+INDORE,Chinese,above 500,Indore,Mainland China,4.1
+INDORE,South Indian,below 500,Indore,China Bowl,4.3
+INDORE,South Indian,above 500,Indore,Shree Ganesh,4.3
+INDORE,North Indian,below 500,Indore,Apna Sweets,4.2
+INDORE,North Indian,above 500,Indore,Chotiwala,4.4
+INDORE,Chinese,below 500,Indore,China Town,4.1
+INDORE,Chinese,above 500,Indore,Mainland China,4.3
+INDORE,South Indian,below 500,Indore,Hotel Rajhans,4.1
+INDORE,South Indian,above 500,Indore,Shree Ganesh,4.3
+VISAKHAPATNAM,North Indian,below 500,Visakhapatnam,Hotel Andhra Spicy,4.3
+VISAKHAPATNAM,North Indian,above 500,Visakhapatnam,Diamond's Bar & Restaurant,4.5
+VISAKHAPATNAM,Chinese,below 500,Visakhapatnam,Chung Hua,4.1
+VISAKHAPATNAM,Chinese,above 500,Visakhapatnam,Ming Garden,4.3
+VISAKHAPATNAM,South Indian,below 500,Visakhapatnam,Kamat's,4.2
+VISAKHAPATNAM,South Indian,above 500,Visakhapatnam,Subway,4.4
+VISAKHAPATNAM,North Indian,below 500,Visakhapatnam,Raj Bhavan,4.1
+VISAKHAPATNAM,South Indian,above 500,Visakhapatnam,Mirchi,4.3
+VISAKHAPATNAM,North Indian,below 500,Visakhapatnam,Minerva Grand,4.5
+VISAKHAPATNAM,North Indian,above 500,Visakhapatnam,Barbeque Nation,4.7
+VISAKHAPATNAM,Chinese,below 500,Visakhapatnam,Ming's Court,4.0
+VISAKHAPATNAM,Chinese,above 500,Visakhapatnam,Ming Garden,4.2
+VISAKHAPATNAM,South Indian,below 500,Visakhapatnam,Saravana Bhavan,4.3
+VISAKHAPATNAM,South Indian,above 500,Visakhapatnam,Punjabi Rasoi,4.1
+VISAKHAPATNAM,North Indian,below 500,Visakhapatnam,Green Park,4.5
+VISAKHAPATNAM,South Indian,above 500,Visakhapatnam,Kamat Hotel,4.3
+VISAKHAPATNAM,Chinese,below 500,Visakhapatnam,Biryani Paradise,4.2
+VISAKHAPATNAM,Chinese,above 500,Visakhapatnam,Chinese Point,4.3
+VISAKHAPATNAM,South Indian,below 500,Visakhapatnam,Ananda Bhavan,4.4
+VISAKHAPATNAM,South Indian,above 500,Visakhapatnam,Punjabi Rasoi,4.3
+VISAKHAPATNAM,North Indian,below 500,Visakhapatnam,Hotel Andhra Spicy,4.2
+VISAKHAPATNAM,North Indian,above 500,Visakhapatnam,Diamond's Bar & Restaurant,4.4
+VISAKHAPATNAM,Chinese,below 500,Visakhapatnam,Chung Hua,4.1
+VISAKHAPATNAM,Chinese,above 500,Visakhapatnam,Ming Garden,4.3
+VISAKHAPATNAM,South Indian,below 500,Visakhapatnam,Kamat's,4.2
+VISAKHAPATNAM,South Indian,above 500,Visakhapatnam,Subway,4.4
+PUNE,North Indian,below 500,Pune,Kaveri,4.3
+PUNE,North Indian,above 500,Pune,Peshwa Pavilion - ITC Maratha,4.5
+PUNE,Chinese,below 500,Pune,Wah Marathi,4.1
+PUNE,Chinese,above 500,Pune,Mainland China,4.3
+PUNE,Bengali,below 500,Pune,6 Ballygunge Place,4.2
+PUNE,Bengali,above 500,Pune,Kasturi,4.4
+PUNE,South Indian,below 500,Pune,Sukanta,4.1
+PUNE,South Indian,above 500,Pune,Belgaum,4.3
+PUNE,North Indian,below 500,Pune,Rasoi,4.5
+PUNE,North Indian,above 500,Pune,Cream Centre,4.7
+PUNE,Chinese,below 500,Pune,Manchow Soup,4.0
+PUNE,Chinese,above 500,Pune,Golden Dragon - Taj Mahal Palace,4.2
+PUNE,Bengali,below 500,Pune,Panch Phoron,4.3
+PUNE,Bengali,above 500,Pune,Bombay Brasserie,4.1
+PUNE,South Indian,below 500,Pune,Arya Bhavan,4.5
+PUNE,South Indian,above 500,Pune,Subh Samudra,4.3
+PUNE,North Indian,below 500,Pune,Peshwa Pavilion - ITC Maratha,4.2
+PUNE,North Indian,above 500,Pune,Diva Maharashtracha,4.4
+PUNE,Chinese,below 500,Pune,Pune Junction,4.3
+PUNE,Chinese,above 500,Pune,Mainland China,4.2
+PUNE,South Indian,below 500,Pune,Durga,4.0
+PUNE,South Indian,above 500,Pune,Sadanand,4.5
+PUNE,North Indian,below 500,Pune,Biryani House,4.1
+PUNE,North Indian,above 500,Pune,Vaishali,4.3
+PUNE,Chinese,below 500,Pune,The Oriental Blossom,4.4
+PUNE,Chinese,above 500,Pune,Cafe Good Luck,4.2
+PUNE,South Indian,below 500,Pune,Sri Krishna Cafe,4.0
+PUNE,South Indian,above 500,Pune,Swaroop,4.5
